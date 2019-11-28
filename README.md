@@ -1,6 +1,6 @@
 # Style-Transfer
 
-So the repository has three folders namely:
+The repository has three folders namely:
 1) classifier
 2) fast_style_transfer
 3) images
